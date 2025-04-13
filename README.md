@@ -60,16 +60,27 @@ Here are some ideas to get you started:
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Top-Rated Plus Freelancer at Upwork
-- ⚡ Data Scraping/Web automation
-- 💻 Android/Windows/Web dev
-- 📑 CS Graduate from Air University, Islamabad.
-- 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
-- 🏅 Won the <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/20231203_113304.jpg">Best Freelancer Award</a> in <a href="https://www.facebook.com/photo/?fbid=730574605772607&set=a.730582385771829">Connected Pakistan Conference 2023</a>
+- 🙋‍♀️ Freelance LaTeX & MATLAB Expert on Fiverr and Instagram  
+- ✨ BS Mathematics Graduate from Air University, Islamabad  
+- 📊 Currently working in the Finance Department at Lucky Core Industries (Excel focused)  
+- 🧠 Passionate about AI, Research, and Freelancing  
+- 💼 Helping students and professionals with academic formatting, LaTeX templates, Excel dashboards & data analysis  
+- 📣 Teaching and mentoring cousins (Grade 5 & 9) in all subjects  
+- 🌍 Building my brand on Instagram: [@goshtmodework](https://instagram.com/goshtmodework)
 
-### My skills 🛠
-👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
-👉 Web Automation (Python/C#/Selenium) (Since 2019)<br>
+---
+
+### My skills 🛠  
+👉 LaTeX Mastery (Reports, Research Papers, CVs, Presentations, Thesis Templates)  
+👉 MATLAB (Data analysis, plotting, simulations, math modeling)  
+👉 Excel Expert (Pivot Tables, Formulas, Dashboards, Conditional Formatting)  
+👉 Academic Writing & Assignment Help  
+👉 Mathematical Problem Solving (Algebra, Calculus, Statistics, etc.)  
+👉 Typing & Formatting Notes (Grades 5–9, university-level content)  
+👉 Online Tutoring & Content Creation  
+👉 Clean, well-documented and understandable code  
+👉 Fast learner, professional communicator, always deadline-focused ⏳
+
 👉 Android Automation (Python/C#/Appium) (Since 2021)<br>
 👉 Android Apps (Java/XML)(2018-2019)<br>
 👉 Windows desktop Apps (WPF/C#/XAML) (Since 2018)<br>
