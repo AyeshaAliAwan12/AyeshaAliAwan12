@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, I'm  Ayesha Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I did BS Maths from Air University.</p>
+<p>Hey there, I'm Ayesha Ali 👋  
+I’m a BS Mathematics graduate from Air University, now mastering the art of LaTeX, MATLAB, and freelancing!
+</p>
 
 
 <div align="center">
