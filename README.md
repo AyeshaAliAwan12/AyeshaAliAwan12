@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### A CS graduate, Developer & Freelancer
+#### A Math Graduate, LaTeX Expert & Freelancer 💻✨
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
@@ -81,22 +81,7 @@ Here are some ideas to get you started:
 👉 Clean, well-documented and understandable code  
 👉 Fast learner, professional communicator, always deadline-focused ⏳
 
-👉 Android Automation (Python/C#/Appium) (Since 2021)<br>
-👉 Android Apps (Java/XML)(2018-2019)<br>
-👉 Windows desktop Apps (WPF/C#/XAML) (Since 2018)<br>
-👉 Web Apps (MEAN Stack) (2018-2019)<br>
-👉 API Development (FastAPI/Flask) (Since 2020)<br>
-<br>
-👉 Multithreaded code<br>
-👉 Output in JSON/CSV/Excel<br>
-👉 Clean and efficient<br>
-👉 Commented and prettified to help you understand<br>
-👉 Parsing data and APIs<br>
-👉 C++<br>
-👉 Cyber security<br>
-👉 Web pentesting/hacking<br>
-👉 Reverse Engineering<br>
-<br>
+
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
