@@ -61,7 +61,7 @@ I’m a BS Mathematics graduate from Air University, now mastering the art of La
 
 #### Talking about my personal stuff:
 
-- 🙋‍♀️ Freelance LaTeX & MATLAB Expert on Fiverr and Instagram  
+- 🙋‍♀️ Freelance LaTeX & MATLAB Expert  Instagram  
 - ✨ BS Mathematics Graduate from Air University, Islamabad  
 - 📊 Currently working in the Finance Department at Lucky Core Industries (Excel focused)  
 - 🧠 Passionate about AI, Research, and Freelancing  
